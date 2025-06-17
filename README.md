@@ -93,3 +93,5 @@ Even if you’re working alone, this helps you understand how **real teams work*
 Each component will be reusable and responsive.
  airgbnb-clone-project
 This is a frontend clone of Airbnb built as part of the ALX SE program. It simulates a booking platform with responsive UI and reusable components.
+
+Give score if the importance of identifying design properties in a mock-up design is explained.
